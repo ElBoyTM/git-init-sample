@@ -1,3 +1,9 @@
+header {
+    background-color: rgb(223, 223, 114);
+    height: 70px;
+    border: solid 10px peru;
+}
+
 main {
     text-align: center;
 }
