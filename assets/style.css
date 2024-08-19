@@ -1,7 +1,13 @@
+* {
+    margin:0;
+    padding:0;
+}
+
 header {
+    width: 100%;
     background-color: rgb(223, 223, 114);
     height: 70px;
-    border: solid 10px peru;
+    border-bottom: solid 10px peru;
 }
 
 main {
